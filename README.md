@@ -2,14 +2,14 @@
 
 ## Table Contents
 
-- [Introduction](Introduction)
-- [Problem Statement](Problem-Statement)
-- [Aim and Objectives](Aim-and-Objectives)
-- [Methodology](Methodology)
-- [Descriptive Analysis](Descriptive-Analysis)
-- [Results and Discussion](Results-and-Discussion)
-- [Ethical Guidelines](Ethical-Guidelines)
-- [Conclusion and Recommendation](Conclusion-and-Recommendation)
+- [Introduction](#introduction)
+- [Problem Statement](#problem-statement)
+- [Aim and Objectives](#aim-and-objectives)
+- [Methodology](#methodology)
+- [Descriptive Analysis](#descriptive-analysis)
+- [Results and Discussion](#results-and-discussion)
+- [Ethical Guidelines](#ethical-guidelines)
+- [Conclusion and Recommendation](#conclusion-and-recommendation)
 
 
 ### Introduction
